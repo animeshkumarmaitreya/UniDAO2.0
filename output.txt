@@ -1,0 +1,31 @@
+== Logs ==
+  Deployed MyNFT contract at: 0x3601829F59F17C475E305aC12D1b956b445d0876
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 11155111
+
+Estimated gas price: 3.414003163 gwei
+
+Estimated total gas used for script: 1542919
+
+Estimated amount required: 0.005267530346252797 ETH
+
+==========================
+
+##### sepolia
+✅  [Success] Hash: 0x08de508cf713c4d40a7ca98fb119f211b51d9f4404fb0ff92adb0284b7bea1bc
+Contract Address: 0x3601829F59F17C475E305aC12D1b956b445d0876
+Block: 7518394
+Paid: 0.002118022983191102 ETH (1186861 gas * 1.784558582 gwei)
+
+✅ Sequence #1 on sepolia | Total Paid: 0.002118022983191102 ETH (1186861 gas * avg 1.784558582 gwei)
+                                                                                                                                                                                                                
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /home/animesh/Desktop/UniDAO2.0/broadcast/DeployNFT.s.sol/11155111/run-latest.json
